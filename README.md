@@ -10,5 +10,5 @@ Run command "python object_tracking.py"
 On being asked, give location of video.
 On beimg asked for coordinates, give input as x,y.
 The output video will be saved as "track.mp4" and json file will be saved as "data.json"
-An image folder will be created at same location which will contain all captured images.
+An image folder will be created at same location which will contain all captured images named as person_id.jpg .
 Make sure to store output files or rename them otherwise they will be overwritten in next run.
